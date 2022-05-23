@@ -1,0 +1,6 @@
+## ignores folders
+src/config
+
+##Exeptions
+!src/config/.gitkeep
+!src/config/*.*_example
